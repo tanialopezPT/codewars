@@ -50,7 +50,7 @@ function predictAge(age1,age2,age3,age4,age5,age6,age7,age8){
     else {return false;}
     
 
-        unction XO(str) {
+        function XO(str) {
         return str.toLowerCase().split('x').length === str.toLowerCase().split('o').length;
     }
 
