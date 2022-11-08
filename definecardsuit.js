@@ -16,5 +16,8 @@ function defineSuit(card) {
       "♦": "diamonds",
       "♥": "hearts"
     }
-    return s[card.charAt(card.length - 1)]
+    return  s[crd.charAt(card.length - 1)]
   }
+
+
+//new//
