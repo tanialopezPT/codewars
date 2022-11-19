@@ -55,3 +55,13 @@ function predictAge(age1,age2,age3,age4,age5,age6,age7,age8){
     }
 
   }
+
+
+
+  
+  
+//   Find the total sum of internal angles (in degrees) in an n-sided simple polygon. N will be greater than 2.
+  
+  function angle(n) {
+    return 180*(n-2);
+  }
